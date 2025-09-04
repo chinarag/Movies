@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "80893526777",
+    "project_id": "atl-practice",
+    "storage_bucket": "atl-practice.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80893526777:android:b58b3fc95ffbf64751d828",
+        "android_client_info": {
+          "package_name": "com.example.movies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPme_kYbmRdqVoCprcRcCyeMOZkTIA4HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80893526777:android:0ffe30f8dde22d6751d828",
+        "android_client_info": {
+          "package_name": "com.example.products"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPme_kYbmRdqVoCprcRcCyeMOZkTIA4HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80893526777:android:9a4aabf56930774451d828",
+        "android_client_info": {
+          "package_name": "com.example.tekrar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPme_kYbmRdqVoCprcRcCyeMOZkTIA4HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
